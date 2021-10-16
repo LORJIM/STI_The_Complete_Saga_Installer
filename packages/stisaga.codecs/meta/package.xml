@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Codecs para Audio y Video</DisplayName>
+    <Description>Codecs necesarios para que las galerías puedan leer ciertos archivos.</Description>
+    <Version>1.0.0-1</Version>
+    <ReleaseDate>2021-10-15</ReleaseDate>
+    <Default>true</Default>
+	<ForcedInstallation>true</ForcedInstallation>
+    <Script>installscript.qs</Script>
+</Package>

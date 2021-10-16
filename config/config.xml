@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>STI The Complete Saga</Name>
+    <Version>1.0.0</Version>
+    <Title>STI The Complete Saga</Title>
+    <Publisher>L0RJiM</Publisher>
+	<WizardDefaultHeight>450</WizardDefaultHeight>
+	<InstallerWindowIcon>STI_The_Complete_Saga.png</InstallerWindowIcon>
+    <InstallerApplicationIcon>STI_The_Complete_Saga</InstallerApplicationIcon>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>STI The Complete Saga</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/STI_TheCompleteSaga</TargetDir>
+	<MaintenanceToolName>Uninstall</MaintenanceToolName>
+</Installer>

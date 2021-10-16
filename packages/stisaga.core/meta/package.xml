@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>STI The Complete Saga</DisplayName>
+    <Description>STI The Complete Saga es una recopilación de la historia, personajes y mejores momentos de las andanzas de Jaime NP y Daniel Amorós en el desternillante mundo de STI.</Description>
+    <Version>1.0.0-1</Version>
+    <ReleaseDate>2021-10-15</ReleaseDate>
+    <Default>true</Default>
+	<Licenses>
+        <License name="License Agreement" file="license.txt" />
+    </Licenses>
+	<UserInterfaces>
+		 <UserInterface>InstructionsPage.ui</UserInterface>
+	</UserInterfaces>
+	<ForcedInstallation>true</ForcedInstallation>
+    <Script>installscript.qs</Script>
+</Package>
