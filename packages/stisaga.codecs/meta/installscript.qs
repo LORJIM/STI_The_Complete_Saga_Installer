@@ -37,6 +37,6 @@ Component.prototype.createOperations = function()
     component.createOperations();
 
     if (systemInfo.productType === "windows") {
-		component.addOperation("Execute", "@InstallerDirPath@/codecs/K-Lite_Codec_Pack_1645_Basic");
+		component.addElevatedOperation("Execute", "@InstallerDirPath@/codecs/K-Lite_Codec_Pack_1645_Basic");
     }
 }
